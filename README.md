@@ -1,5 +1,11 @@
-# MY-NOTEPAD
+# easy-NOTEPAD
 # A note pad made in python using Tkinter (GUI).
+
+
+To run this perfect notepad you need to just clone it with your git bash com and should have tkinter installed in your python with the command (pip install tk).
+("This is just for educational purpose those who are all learning python")
+
+facing any issue ? reach me out @ (mda957947@gmail.com)
 
 Hope you'll install it in your computer just to try .
 
